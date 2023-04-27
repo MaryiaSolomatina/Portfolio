@@ -25,4 +25,5 @@
 ![Lesson 7.2](https://github.com/MaryiaSolomatina/Portfolio/blob/bcacd20a0066a0578291ea266ba9210c3482de66/KarpovCourses/AirFlow%20DAGs/Lesson7.2_telegram_bot.jpg)
 
 4. __Lesson 8__ DAG для отправки оповещений при обнаружении аномалий в ключевых метриках с проверкой периодичностью каждые 15 минут (метрики - активные пользователи в ленте / мессенджере, просмотры, лайки, CTR, количество отправленных сообщений). При обнаружении аномалий в telegram чат должен приходить alert (сообщение с текстом, графиком, ссылкой на оперативный дашборд)
+
 ![Lesson 8](https://github.com/MaryiaSolomatina/Portfolio/blob/bcacd20a0066a0578291ea266ba9210c3482de66/KarpovCourses/AirFlow%20DAGs/Lesson8_alerts.jpg)
